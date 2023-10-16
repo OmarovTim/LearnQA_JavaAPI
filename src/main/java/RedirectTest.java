@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.Test;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
-class HelloWorldTest() {
+class HelloWorldTest{
 
     @Test
     public void testRestAssured() {
